@@ -1,0 +1,7 @@
+.DS_STORE
+.env
+.vs_code/
+output/
+website_downloader.log
+.venv/
+venv/
